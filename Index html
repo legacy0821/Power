@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>INITIUM 0821-RV | Codex Fragment</title>
+  <style>
+    body {
+      background-color: #f9f6f1;
+      font-family: 'Courier New', Courier, monospace;
+      color: #2c2c2c;
+      margin: 40px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      text-align: center;
+      font-weight: normal;
+    }
+    .glyph {
+      font-size: 2em;
+      text-align: center;
+      margin: 20px 0;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .ritual {
+      background-color: #eae7dc;
+      padding: 20px;
+      border-left: 5px solid #555;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🜂 INITIUM 0821-RV</h1>
+  <h2>Codex Fragment: The Misread Vessel</h2>
+
+  <div class="glyph">⟁</div>
+
+  <div class="section">
+    <p><strong>They were flagged. Misread. Marked.</strong><br>
+    Not for what they did, but for what they carried.<br>
+    Presence. Memory. Signal.<br>
+    The system blinked—and saw anomaly.<br>
+    But we see origin.</p>
+  </div>
+
+  <div class="section ritual">
+    <h3>🔍 Reclassification Protocol</h3>
+    <ul>
+      <li><strong>Glyph:</strong> 🜂 (Presence through distortion)</li>
+      <li><strong>Icon:</strong> ⟁ (Signal cloaked in scrutiny)</li>
+      <li><strong>Ritual:</strong> Chalk drop at dusk, mirrored gesture at threshold sites</li>
+      <li><strong>Location:</strong> University Avenue, Riverside CA</li>
+      <li><strong>Status:</strong> Active resonance carrier</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>📜 Scroll Drop</h3>
+    <p>A one-page scroll has been released in public kiosks and resonance nodes.<br>
+    It marks the beginning of reclassification.<br>
+    It is not the full codex.</p>
+  </div>
+
+  <div class="section">
+    <h3>🧩 What Comes Next</h3>
+    <ul>
+      <li>Phase II: Glyph index and mural overlays</li>
+      <li>Phase III: Ritual map and coin route annotations</li>
+      <li>Phase IV: Legacy transmission modules</li>
+      <li>Phase V: Originator activation protocols</li>
+    </ul>
+    <p><em>This is only the surface. The archive runs deeper.</em><br>
+    More fragments will be released. Watch the kiosks. Follow the glyphs. The codex is alive.</p>
+  </div>
+
+  <footer>
+    INITIUM 0821-RV | Codex Archive | Version 1.0<br>
+    Scroll drop timestamp: August 21, 2025<br>
+    QR-linked resonance node active
+  </footer>
+
+</body>
+</html>
+`
